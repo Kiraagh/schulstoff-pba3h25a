@@ -2,6 +2,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    height: 100%;
 }
 .burger {
     position: absolute;
@@ -31,6 +32,12 @@ body {
     height: 100%;
     right: 43%;
     left: 30%;
+    padding-left: 15px;
+    padding-right: 15px;
+    /*
+    border-left: 5px solid #696969;
+    border-right: 5px solid #696969;
+    */
 }
 table,tr,th,td {
     border: 1px solid;  
@@ -44,5 +51,15 @@ table,tr,th,td {
     height: 100%;
     margin-left: 3%;
     right: 0;
+    font-size: 21px;
 }
 /*Structure END*/
+
+/*Programming*/
+.variable {
+    color: blue;
+}
+.comment {
+    color: green;
+}
+/*Programming END*/
