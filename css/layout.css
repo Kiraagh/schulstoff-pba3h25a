@@ -1,3 +1,4 @@
+/*Structure BEGIN*/
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -6,17 +7,35 @@ body {
     position: absolute;
     width:27%;
     height: 100%;
+    margin-right: 3%;
+}
+.burger_button {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    padding: auto;
+}
+.burger_button:hover {
+    background-color: gray  ;
+}
+.window {
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 50px;
 }
 .text {
     position: absolute;
-    width: 40%;
+    width: 34%;
     height: 100%;
-    right: 40%;
-    left: 27%;
+    right: 43%;
+    left: 30%;
 }
 .tags {
     position: absolute;
     width: 33%;
     height: 100%;
+    margin-left: 3%;
     right: 0;
 }
+/*Structure END*/
