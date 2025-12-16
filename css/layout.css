@@ -37,7 +37,11 @@ button {
     position: absolute;
     width: auto;
     height: auto;
-    top: 30px;
+    margin-top: 0;
+    top: 50px;
+}
+.window h1 {
+    margin-top: 0;
 }
 .text {
     position: absolute;
