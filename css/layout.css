@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.burger {
+    position: absolute;
+    width:27%;
+    height: 100%;
+}
+.text {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    right: 40%;
+    left: 27%;
+}
+.tags {
+    position: absolute;
+    width: 33%;
+    height: 100%;
+    right: 0;
+}
