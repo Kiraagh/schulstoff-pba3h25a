@@ -9,6 +9,7 @@ body {
     width:27%;
     height: 100%;
     margin-right: 3%;
+    border-right: #696969;
     display: none;
 }
 .burger_button {
